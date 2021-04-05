@@ -4,7 +4,7 @@ This repository contains non-official KiCad project templates.
 
 ## Content
 Board outlines for 
-* Bahar BAD enclosure series
+* Enclosure series 'Bahar BAD'
   * BAD 11001 W140
   * BAD 11002 W140
   * BAD 11003 W120
