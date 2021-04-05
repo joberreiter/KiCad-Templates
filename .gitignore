@@ -1,4 +1,6 @@
 *.pyc
+*.bak
+*.kicad_prl
 
-_BoardFactory/*.log
-_BoardFactory/output/
+# Ignore the BoardFactory project as a whole
+_BoardFactory/*
