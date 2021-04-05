@@ -3,8 +3,8 @@
 This repository contains non-official KiCad project templates.
 
 ## Content
-Board outlines for 
-* Enclosure series 'Bahar BAD'
+Board outlines for
+* the enclosure series 'BAD' (aluminium cases) of manufacturer [Bahar Enclosure](https://bahar-enclosure.com/):
   * BAD 11001 W140
   * BAD 11002 W140
   * BAD 11003 W120
