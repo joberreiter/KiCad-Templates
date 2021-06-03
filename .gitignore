@@ -22,3 +22,5 @@ fp-info-cache
 
 # Ignore the BoardFactory project as a whole
 _BoardFactory/*
+icon.png
+
