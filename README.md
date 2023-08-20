@@ -20,3 +20,6 @@ Board outlines for
   * BAD 11014 W180
   * BAD 11015 W200
 * the TFA 30.3110 from manufacturer [TFA Dostmann](https://www.tfa-dostmann.de/), see [Outdoor temperature transmitter 30.3110](https://www.tfa-dostmann.de/produkt/aussentemperatursender-30-3110/)
+
+## Donations
+[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://paypal.me/Oberreiter)
