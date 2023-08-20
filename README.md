@@ -22,4 +22,4 @@ Board outlines for
 * the TFA 30.3110 from manufacturer [TFA Dostmann](https://www.tfa-dostmann.de/), see [Outdoor temperature transmitter 30.3110](https://www.tfa-dostmann.de/produkt/aussentemperatursender-30-3110/)
 
 ## Donations
-[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://paypal.me/Oberreiter)
+[![Donation](https://img.shields.io/badge/donate-paypal-orange.svg)](https://www.paypal.com/donate/?hosted_button_id=B3TT7MZPNKANY)
